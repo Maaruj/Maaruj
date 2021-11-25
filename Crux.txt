@@ -1,0 +1,37 @@
+check environment readiness before every release cycle
+DSR(Daily status Report) for tracking of daily progress of execution-formula based
+defect fixes, if any hot fix, retrofit defect,
+Looking for all kind of approvals, for any requirement change or gAP
+test management activities, having a view of the testing scope and based on that estimation, along with some buffer
+buffer for environmental issues, resource issues, delay in fix of defects, crisis situation
+resource handling(onboarding plan, arranging their configuration, id creation, KT plan, fitting them nto team so that they can gradulayy find the contact points).
+
+Conduct training sessions, prepare learning document
+Reeived Annual Excellence award for in Bancs Replacement program
+Received appreciation from client in Bancs Replacement program
+
+
+Proposal Planning
+SOW
+organizing meeting for automation ideas
+Milestones definition
+Invoicing Milestones
+
+
+
+conducting technical trainings
+interviewing candidates
+presentation to stakeholders
+my profile was also presented to client to showcase on RFP as an asset
+Appreciated by client for standardbank program
+
+Triad- analytical tool
+
+call type -parameter
+TRIAD- customer based or account based
+segments check customer behaviour based on segments
+credit limit
+objective- forecast trend of behaviour customer
+to see delinquint and over limit customers
+promotional activies for disciplined customer
+
